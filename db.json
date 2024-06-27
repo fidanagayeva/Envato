@@ -1,0 +1,154 @@
+{
+  "User": [
+    {
+      "featured": "FEATURED",
+      "forSale": "FOR SALE",
+      "image": "https://themesflat.co/html/homzen/images/home/house-1.jpg",
+      "type": "STUDIO",
+      "title": "Casa Lomas De Machalí Machas",
+      "location": "33 Maple Street, San Francisco, California",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 600,
+      "agentImage": "https://themesflat.co/html/homzen/images/avatar/avt-6.jpg",
+      "agentName": "Arlene McCoy",
+      "price": "$7250.00/SqFT"
+    },
+    {
+      "featured": "FEATURED",
+      "forSale": "FOR SALE",
+      "image": "https://themesflat.co/html/homzen/images/home/house-2.jpg",
+      "type": "APARTMENT",
+      "title": "Coastal Serenity Cottage",
+      "location": "21 Hillside Drive, Beverly Hills, California",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": 600,
+      "agentImage": "https://themesflat.co/html/homzen/images/avatar/avt-7.jpg",
+      "agentName": "Anette Black",
+      "price": "$250.00/month"
+    },
+    {
+      "featured": "FEATURED",
+      "forSale": "FOR SALE",
+      "image": "https://themesflat.co/html/homzen/images/home/house-3.jpg",
+      "type": "VILLA",
+      "title": "Villa Del Mar Retreat,Malibu",
+      "location": "33 Maple Street, San Francisco, California",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "area": 600,
+      "agentImage": "https://themesflat.co/html/homzen/images/avatar/avt-5.jpg",
+      "agentName": "Ralph Edwards",
+      "price": "$5050.00/SqFT"
+    },
+    {
+      "featured": "FEATURED",
+      "forSale": "FOR SALE",
+      "image": "https://themesflat.co/html/homzen/images/home/house-4.jpg",
+      "type": "HOUSE",
+      "title": "Sunset Heights Estate,Beverly Hills",
+      "location": "1040 Ocean, Santa Monica, California",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 600,
+      "agentImage": "https://themesflat.co/html/homzen/images/avatar/avt-8.jpg",
+      "agentName": "Jacob Jones",
+      "price": "$250.00/month"
+    },
+    {
+      "featured": "FEATURED",
+      "forSale": "FOR SALE",
+      "image": "https://themesflat.co/html/homzen/images/home/house-5.jpg",
+      "type": "OFFICE",
+      "title": "Coastal Serenity Cottage",
+      "location": "21 Hillside Drive, Beverly Hills, California",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "area": 600,
+      "agentImage": "https://themesflat.co/html/homzen/images/avatar/avt-9.jpg",
+      "agentName": "Kathryn Murphy",
+      "price": "$7250.00/SqFT"
+    },
+    {
+      "featured": "FEATURED",
+      "forSale": "FOR SALE",
+      "image": "https://themesflat.co/html/homzen/images/home/house-6.jpg",
+      "type": "STUDIO",
+      "title": "Lakeview Haven,Lake Tahoe",
+      "location": "8 Broadway, Brooklyn, New York",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": 600,
+      "agentImage": "https://themesflat.co/html/homzen/images/avatar/avt-6.jpg",
+      "agentName": "Floyd Miles",
+      "price": "$250.00/SqFT"
+    }
+  ],
+  "locations": [
+    {
+      "name": "London, United Kingdom",
+      "propertyCount": 321,
+      "imageUrl": "https://themesflat.co/html/homzen/images/location/location-1.jpg",
+      "type":"edit"
+    },
+    {
+      "name": "Sydney, Australia",
+      "propertyCount": 231,
+      "imageUrl": "https://themesflat.co/html/homzen/images/location/location-2.jpg",
+      "type":"edit"
+    },
+    {
+      "name": "New Jersey, New York",
+      "propertyCount": 234,
+      "imageUrl": "https://themesflat.co/html/homzen/images/location/location-3.jpg",
+      "type":"edit"
+    }
+  ],
+  "agents": [
+    {
+      "name": "Jack Halow",
+      "position": "CEO & Founder",
+      "image": "https://themesflat.co/html/homzen/images/agents/agent-1.jpg"
+       
+    },
+    {
+      "name": "John Smith",
+      "position": "Property Manager",
+      "image": "https://themesflat.co/html/homzen/images/agents/agent-2.jpg"
+    },
+    {
+      "name": "Chris Patt",
+      "position": "Administrative Staff",
+      "image": "https://themesflat.co/html/homzen/images/agents/agent-3.jpg"
+    },
+    {
+      "name": "Jack Halow",
+      "position": "Real Estate Marketer",
+      "image": "https://themesflat.co/html/homzen/images/agents/agent-4.jpg"
+    }
+  ],
+  "cards": [
+    {
+      "image": "https://themesflat.co/html/homzen/images/blog/blog-1.jpg",
+      "date": "JANUARY 28, 2024",
+      "category": "Esther | Furniture",
+      "title": "Building Gains Into Housing Stocks And How To Trade The Sector",
+      "description": "The average contract interest rate for 30-year fixed-rate mortgages with conforming loan balances..."
+    },
+    {
+      "image": "https://themesflat.co/html/homzen/images/blog/blog-2.jpg",
+      "date": "JANUARY 31, 2024",
+      "category": "Angel | Interior",
+      "title": "92% Of Millennial Homebuyers Say Inflation Has Impacted Their Plans",
+      "description": "Mortgage applications to purchase a home, however, dropped 4% last week compared..."
+    },
+    {
+      "image": "https://themesflat.co/html/homzen/images/blog/blog-3.jpg",
+      "date": "JANUARY 28, 2024",
+      "category": "Colleen | Architecture",
+      "title": "We Are Hiring ‘Moderately,’ Says Compass CEO",
+      "description": "New listings were down 20% year over year in March according to Realtor.com, and total inventory..."
+    }
+  ]
+}
