@@ -38,6 +38,6 @@ async function updateSupplier(id) {
     }
 }
 
-document.addEventListener('', () => {
-    getSupplier(supplierId);
-});
+
+getSupplier(supplierId);
+
